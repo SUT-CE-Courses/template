@@ -11,10 +11,9 @@ schoolurl: "https://sharif.edu"
 twitter_username: maar1395
 
 address: |
-Computer Engineering Department
-Sharif University of Technology
-Tehran
-Iran
+    Computer Engineering Department
+    Sharif University of Technology
+    Tehran
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
 # google_analytics: UA-XXXXXXXX-X
